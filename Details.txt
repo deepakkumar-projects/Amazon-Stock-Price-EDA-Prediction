@@ -1,1 +1,1 @@
-Its a Amazon stock price prediction model with EDA 
+Its a Amazon stock price prediction model with Exploratory data analysis.
